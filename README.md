@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]()
 <h1 align="center">Hi 👋, I'm Dev Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
