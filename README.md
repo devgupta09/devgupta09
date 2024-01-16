@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dev2000.gupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zKh5VyMhxXFUFKwid98sXJIwg5VoccUf/view?usp=drive_link](https://drive.google.com/file/d/1zKh5VyMhxXFUFKwid98sXJIwg5VoccUf/view?usp=drive_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1zKh5VyMhxXFUFKwid98sXJIwg5VoccUf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
